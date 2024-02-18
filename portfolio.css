@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(183, 220, 233);
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  margin-top: 0px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  color: #333;
+  text-align:center;
+}
+
+p {
+  text-align: center;
+}
+/*#projName {
+  display: inline;
+  margin-right: 50px;
+}*/
